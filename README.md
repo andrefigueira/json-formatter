@@ -2,7 +2,7 @@
 
 Jaysun takes JSON and renders it into an HTML list, Based on JSONFormatter by github.com/forward
 
-[View a demo](http://www.peartreefigtree.com/static/Jaysun/demo.html)
+[View a demo](http://static.andrefigueira.com/json-formatter/demo.html)
 
 ## Basic usage
 
